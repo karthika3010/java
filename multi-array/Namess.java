@@ -2,7 +2,7 @@ class Namess
 {
 	public static void main(String[] args)
 	{
-		char name[][]={{'j','a','n','a','n'},{'d','h','a','r','s'},{'s','a','h','n','a'},{'k','a','r','t','h'},{'d','e','v','i','i'}};
+		char name[][]={{'j','a','n','a','n'},{'d','h','a','r','s'},{'s','a','h','n','a'},{'k','a','r','t','h'}};
 		for(int i=0;i<name.length;i++)
 		{
 			for(int j=0;j<name[i].length;j++)
