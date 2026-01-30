@@ -2,7 +2,8 @@ class Recursion
 {
 	public static void main(String[] args)
 	{
-		print(0);
+		Recursion r=new Recursion();
+		r.print(0);
 	}
 	void print(int index)
     {
